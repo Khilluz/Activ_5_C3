@@ -1,0 +1,41 @@
+
+
+/** SERVICIOS - AGUSTIN SMITH **/
+
+.serv-section {
+}
+
+.serv-h1 {
+    text-align: center;
+    color: #5c8d89;
+    margin-top: 10px;
+}
+
+.serv-contenedor {
+    display: flex;
+    padding: 10px;
+}
+
+.serv {
+    box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.serv img {
+    border-radius: 10px;
+    width: 235px;
+}
+
+.serv label {
+    font-size: 20px;
+    color: #5c8d89;
+}
+
+.serv p {
+    font-size: 15px;
+    color:  #74b49b;
+}
+
+
