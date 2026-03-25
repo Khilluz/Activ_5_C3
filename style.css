@@ -1,0 +1,13 @@
+nav 
+{
+    color:olivedrab;
+    font-weight: 900;
+    background-color: olivedrab;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+nav button{
+    margin: 2px;
+    color: olivedrab;
+    font-weight: 900;
+}
